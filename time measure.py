@@ -26,4 +26,6 @@ sample_function()
 
 testfunc()
 
-testfunc()
+#testfunc()
+
+print("function executed")
