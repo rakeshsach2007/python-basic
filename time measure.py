@@ -28,4 +28,4 @@ testfunc()
 
 #testfunc()
 
-print("function executed")
+print("function executed successfully")
