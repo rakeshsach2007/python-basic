@@ -14,6 +14,6 @@ else:
             break
 
 if bIsPrime:
-    print(f"Enter number {iUserInput} is a prime number")
+    print(f"Entered number {iUserInput} is a prime number")
 else:
-    print(f"Enter number {iUserInput} is NOT a prime number")
+    print(f"Entered number {iUserInput} is NOT a prime number")
